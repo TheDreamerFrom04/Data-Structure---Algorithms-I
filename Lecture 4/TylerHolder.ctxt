@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TylerHolder
+comment1.params=
+comment1.target=TylerHolder()
+comment2.params=userInput
+comment2.target=void\ addToBucket(java.lang.String)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=userInput
+comment4.target=java.lang.String\ getPos(int)
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=void\ printer()
+numComments=7
