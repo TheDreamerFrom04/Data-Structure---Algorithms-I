@@ -9,7 +9,7 @@ public class TylerHolder
         size = 0;
     }
     
-    public void addToBucket_I_Added_This_Wrong_New_Change(String userInput) {
+    public void addToBucket_I_Added_This_Wrong_New(String userInput) {
         if(size+1 > bucket.length) {
             String bucketNew[];
             int newSize = size*2;
