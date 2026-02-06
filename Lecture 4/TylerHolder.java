@@ -9,7 +9,7 @@ public class TylerHolder
         size = 0;
     }
     
-    public void addToBucketHowDareYou(String userInput) {
+    public void addToBucketHowDareYouEvilEvil(String userInput) {
         if(size+1 > bucket.length) {
             String bucketNew[];
             int newSize = size*2;
