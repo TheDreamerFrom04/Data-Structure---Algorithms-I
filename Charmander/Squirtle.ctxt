@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Squirtle
-comment1.params=userName
-comment1.target=Squirtle(java.lang.String)
-comment2.params=opponent
-comment2.target=void\ abilityWaterGun(Pokemon)
-numComments=3

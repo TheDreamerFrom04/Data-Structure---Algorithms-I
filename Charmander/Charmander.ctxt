@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Charmander
-comment1.params=userName
-comment1.target=Charmander(java.lang.String)
-comment2.params=opponent
-comment2.target=void\ abilityScratch(Pokemon)
-numComments=3

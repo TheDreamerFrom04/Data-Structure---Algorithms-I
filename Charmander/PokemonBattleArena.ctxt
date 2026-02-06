@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=PokemonBattleArena
-comment1.params=player1\ player2
-comment1.target=void\ battle(Squirtle,\ Charmander)
-numComments=2
